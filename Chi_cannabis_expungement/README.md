@@ -1,7 +1,7 @@
-IL_cannabis_expungement
+Chi_cannabis_expungement
 ==============================
 
-Data viz/analysis towards assisting with IL expungement of cannabis in 2019 and beyond
+Data viz/analysis of Chicago Arrest Data towards assisting with IL expungement of cannabis in 2019 and beyond
 
 Project Organization
 ------------
